@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Cotact List',
+      title: 'Flutter Contact List',
       theme: ThemeData(
         // This works for code too, not just values: Most code changes can be
         // tested with just a hot reload.
