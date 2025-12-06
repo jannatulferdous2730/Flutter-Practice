@@ -1,6 +1,9 @@
-# list_of_food_recipe
+# list_of_food_recipe 
 
-A new Flutter project.
+![screenshot](assets/screenshots/ui_1.png)
+![screenshot](assets/screenshots/ui_2.png)
+
+A Flutter project. 
 
 ## Getting Started
 
